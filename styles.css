@@ -1,0 +1,32 @@
+body,html {
+  background-image: url("img/bg.jpg");
+  height: 100%;
+  margin: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+.details {
+  padding-top: 20%;
+}
+
+.ficon {
+  margin: 1.2%;
+  color: #FFC947;
+}
+
+.ficon:hover {
+  color: #2541B2;
+}
+
+.h2 {
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.p {
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
